@@ -1,7 +1,5 @@
 # Flift
 
-blah blaqh blah blah
-
 The hollow light
 Is still on the fields
 Where the winter has warmed
